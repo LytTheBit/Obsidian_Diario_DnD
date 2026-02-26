@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-Materiale D&D/Hombrew/Snyper crosbow.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Snyper crosbow"
+              "title": "README"
             }
           }
         ]
@@ -172,7 +172,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "iconic:Open rulebook": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -180,13 +179,22 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-5e-statblocks:Open Creature pane": false
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "iconic:Open rulebook": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "caa6e2a9db5574a1",
   "lastOpenFiles": [
-    "0-Materiale D&D/Hombrew/Wizard - Graviturgy Magic Revisited.md",
+    "Francesco Bonaiuti.md",
+    "0-Immagini e altro/Baron Vargas Vallakovich.png",
+    "README.md",
+    "0-Immagini e altro/Sablewood Messengers.png",
+    "Curse of Strahd/Mondo/Luoghi/Magione dei Durst.md",
+    "Card Dati/Luoghi.base",
+    "Curse of Strahd/Mondo/Luoghi/Torre del mago.md",
     "0-Materiale D&D/Hombrew/Snyper crosbow.md",
+    "0-Materiale D&D/Hombrew/Wizard - Graviturgy Magic Revisited.md",
     "0-Materiale D&D/Incantesimi/-Libro degli incantesimi-.md",
     "0-Materiale D&D/Incantesimi/Cantrip (level 0).md",
     "One Shot/Daggerheart Quickstart - Sablewood Messengers.md",
@@ -194,7 +202,6 @@
     "Curse of Strahd/Curse of Strahd.md",
     "Reami Silvestri/Campagna di Nodar.md",
     "Curse of Strahd/Wintersplinter.md",
-    "Sablewood Messengers.png",
     "Card Dati/Sessioni.base",
     "Card Dati/Personaggi.base",
     "One Shot/Untitled.md",
@@ -206,21 +213,14 @@
     "Curse of Strahd/Informazioni/Organizzazioni/Criminali",
     "Card Dati/Organizazioni.base",
     "Card Dati/Oggetti.base",
-    "Card Dati/Luoghi.base",
     "Curse of Strahd/Informazioni/Oggetti/Oggetti magici/Fiori incastonati in cristalli (consumabile).md",
     "Card Dati",
     "Curse of Strahd/Mondo/Regioni/Reame di Barovia.md",
     "Curse of Strahd/Mondo/Regioni/Revenloft.md",
     "Curse of Strahd/Mondo/Luoghi/Taverna del vino del sangue.md",
-    "Curse of Strahd/Mondo/Luoghi/Torre del mago.md",
     "Curse of Strahd/Mondo/Luoghi/Yester hill.md",
     "Curse of Strahd/Mondo/Luoghi/Blue Water.md",
     "Curse of Strahd/Mondo/Città/Vallaki.md",
-    "Curse of Strahd/Mondo/Città/Villaggio di Barovia.md",
-    "Curse of Strahd/Sessioni/Stagione 2/Strahd sessione 10.md",
-    "Curse of Strahd/Sessioni/Stagione 1/Strahd sessione 9.md",
-    "Curse of Strahd/Personaggi/Party/Thomas Bertrand.md",
-    "Baron Vargas Vallakovich.png",
     "0-Immagini e altro/Lorenzo/Untitled figlia.png",
     "0-Immagini e altro/Lorenzo/Perle delle driadi.png",
     "0-Immagini e altro/Lorenzo/Nobilessa Vallaki.png",
