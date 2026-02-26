@@ -1,0 +1,84 @@
+/* === Colori per cartelle e file, per percorso === */
+/* Personalizza qui i colori */
+:root{
+  --nero: #000000;               /* Immagini e altro */
+  --grigio-scuro: #495057;       /* Immagini e altro */
+
+  --giallo-scuro: #ca8a04;
+  --giallo: #fde047;
+
+  --rosso: #ef4444;
+  --arancione-scuro: #ea580c;
+
+  --blu: #1e66f5;     
+  --azzurro: #74c0fc; 
+
+  --viola: #7c3aed;              /* Curse of Strahd */
+  --porpora: #a21caf;            /* Curse of Strahd */
+
+  --verde-scuro: #166534;         /* Reami Silvestri */
+  --verde-chiaro: #86efac;        /* Reami Silvestri */
+}
+
+
+
+/* ——— Immagini e altro ——— */
+/* Cartelle sotto Immagini e altro (titolo + icona) */
+.nav-folder [data-path^="Immagini e altro/"] > .nav-folder-title-content{
+  color: var(--nero);
+}
+.nav-folder [data-path^="Immagini e altro/"] > .iconize-icon svg{
+  color: var(--nero);
+  fill: currentColor;
+}
+
+/* Note sotto Immagini e altro (titolo + icona) */
+.nav-file-title[data-path^="Immagini e altro/"] .nav-file-title-content{
+  color: var(--grigio-scuro);
+}
+.nav-file-title[data-path^="Immagini e altro/"] .iconize-icon svg{
+  color: var(--grigio-scuro);
+  fill: currentColor;
+}
+
+
+/* ——— Curse of Strahd ——— */
+/* Cartelle sotto Scuola (titolo + icona) */
+.nav-folder [data-path^="Curse of Strahd/"] > .nav-folder-title-content{
+  color: var(--viola);
+}
+.nav-folder [data-path^="Curse of Strahd/"] > .iconize-icon svg{
+  color: var(--viola);
+  fill: currentColor;
+}
+
+/* Note sotto Curse of Strahd (titolo + icona) */
+.nav-file-title[data-path^="Curse of Strahd/"] .nav-file-title-content{
+  color: var(--porpora);
+}
+.nav-file-title[data-path^="Curse of Strahd/"] .iconize-icon svg{
+  color: var(--porpora);
+  fill: currentColor;
+}
+
+/* ——— Reami Silvestri ——— */
+/* Cartelle sotto Reami Silvestri */
+.nav-folder [data-path^="Reami Silvestri/"] > .nav-folder-title-content{
+  color: var(--verde-scuro);
+}
+.nav-folder [data-path^="Reami Silvestri/"] > .iconize-icon svg{
+  color: var(--verde-scuro);
+  fill: currentColor;
+}
+
+/* Note sotto Hobby */
+.nav-file-title[data-path^="Reami Silvestri/"] .nav-file-title-content{
+  color: var(--verde-chiaro);
+}
+.nav-file-title[data-path^="Reami Silvestri/"] .iconize-icon svg{
+  color: var(--verde-chiaro);
+  fill: currentColor;
+}
+
+/* (opzionale) evita conflitti sul file attivo: */
+.nav-file-title.is-active .nav-file-title-content{ color: inherit; }

@@ -1,0 +1,10 @@
+views:
+  - type: cards
+    name: Sessioni
+    filters:
+      or:
+        - file.tags.contains("#Sessione")
+    order:
+      - file.name
+    imageFit: contain
+    image: note.Immagine

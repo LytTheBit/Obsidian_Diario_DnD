@@ -1,0 +1,2 @@
+#uomo #npc #combattente 
+Un umano incontrato alla [[taverna del tronco spezzato]], fa il barista, li manca un occhio e un braccio. Collabora con [[Eldara]] e [[Silas]] per rovesciare il governo di [[Boscoscuro]] e i [[saggi]] ![[Pasted image 20240921190214.png]]

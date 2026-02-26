@@ -1,0 +1,2 @@
+Misteriosa siccità che ha colpito i piccoli villaggi dei [[Reami silvestri]] 
+Potrebbe avere qualcosa a che fare con [[Valisk]] e con [[Boscoscuro]], visto che è l'unica città a non essere stata colpita dalla siccità 

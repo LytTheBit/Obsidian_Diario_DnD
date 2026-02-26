@@ -1,0 +1,7 @@
+views:
+  - type: cards
+    name: Oggetti - Strahd
+    filters:
+      or:
+        - file.folder.startsWith("Curse of Strahd/Informazioni/Oggetti")
+    image: note.Immagine

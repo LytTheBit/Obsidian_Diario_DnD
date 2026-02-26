@@ -1,0 +1,367 @@
+{
+  "biggerIcons": "mobile",
+  "clickableIcons": "desktop",
+  "showAllFileIcons": false,
+  "showAllFolderIcons": false,
+  "minimalFolderIcons": true,
+  "showMarkdownTabIcons": true,
+  "showTitleIcons": true,
+  "showTagPillIcons": true,
+  "showMenuActions": true,
+  "showSuggestionIcons": true,
+  "showQuickSwitcherIcons": true,
+  "showMoveFileIcons": true,
+  "showItemName": "desktop",
+  "biggerSearchResults": "mobile",
+  "maxSearchResults": 50,
+  "colorPicker1": "list",
+  "colorPicker2": "rgb",
+  "uncolorHover": false,
+  "uncolorDrag": false,
+  "uncolorSelect": false,
+  "uncolorQuick": false,
+  "rememberDeletedItems": false,
+  "dialogState": {
+    "iconMode": true,
+    "emojiMode": false,
+    "rulePage": "file"
+  },
+  "appIcons": {},
+  "tabIcons": {},
+  "fileIcons": {
+    "Curse of Strahd": {
+      "icon": "lucide-venetian-mask",
+      "unsynced": [
+        "7a04eea1d00dbf53"
+      ],
+      "color": "purple"
+    },
+    "Curse of Strahd/Personaggi/Party/Gavriel Noctis.md": {
+      "icon": "lucide-cross",
+      "color": "purple"
+    },
+    "Curse of Strahd/Personaggi/Party/Kenjiro Nozomi.md": {
+      "icon": "lucide-dog",
+      "color": "purple"
+    },
+    "Curse of Strahd/Personaggi/Party/Mevis Noctis.md": {
+      "icon": "lucide-sword",
+      "color": "purple"
+    },
+    "Curse of Strahd/Personaggi/Party/Sigfrit Von Drachenfels.md": {
+      "icon": "lucide-shield",
+      "color": "purple"
+    },
+    "Curse of Strahd/Personaggi/Party/Thomas Bertrand.md": {
+      "icon": "lucide-lamp",
+      "color": "blue"
+    },
+    "Curse of Strahd/Sessioni": {
+      "icon": "lucide-library-big",
+      "unsynced": [
+        "7a04eea1d00dbf53"
+      ],
+      "color": "purple"
+    },
+    "One Shot": {
+      "icon": "lucide-library-big",
+      "unsynced": [
+        "7a04eea1d00dbf53"
+      ],
+      "color": "gray"
+    },
+    "Reami Silvestri": {
+      "icon": "lucide-trees",
+      "color": "green",
+      "unsynced": [
+        "7a04eea1d00dbf53"
+      ]
+    }
+  },
+  "bookmarkIcons": {},
+  "tagIcons": {},
+  "propertyIcons": {},
+  "ribbonIcons": {},
+  "fileRules": [
+    {
+      "id": "WCNxA",
+      "name": "NPC Morti - Strahd",
+      "icon": "lucide-skull",
+      "color": "purple",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "tags",
+          "operator": "includes",
+          "value": "Morto"
+        },
+        {
+          "source": "tree",
+          "operator": "contains",
+          "value": "Curse of Strahd/"
+        }
+      ],
+      "enabled": true
+    },
+    {
+      "id": "bVkCA",
+      "name": "NPC Alleati - Strahd",
+      "icon": "lucide-user-check-2",
+      "color": "purple",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "tree",
+          "operator": "is",
+          "value": "Curse of Strahd/Personaggi/NPC/Alleati/"
+        }
+      ],
+      "enabled": true
+    },
+    {
+      "id": "dc3kg",
+      "name": "NPC Nemici - Strahd",
+      "icon": "lucide-user-x2",
+      "color": "purple",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "tree",
+          "operator": "is",
+          "value": "Curse of Strahd/Personaggi/NPC/Nemici/"
+        }
+      ],
+      "enabled": true
+    },
+    {
+      "id": "LS7BV",
+      "name": "NPC - Strahd",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "tree",
+          "operator": "contains",
+          "value": "Curse of Strahd/Personaggi/NPC/"
+        }
+      ],
+      "enabled": true,
+      "color": "purple",
+      "icon": "lucide-user-2"
+    },
+    {
+      "id": "IrC5m",
+      "name": "Luoghi - Strahd",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "tree",
+          "operator": "is",
+          "value": "Curse of Strahd/Mondo/Luoghi/"
+        }
+      ],
+      "enabled": true,
+      "icon": "lucide-map-pin-house",
+      "color": "purple"
+    },
+    {
+      "id": "ytbbQ",
+      "name": "Città - Strahd",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "tree",
+          "operator": "is",
+          "value": "Curse of Strahd/Mondo/Città/"
+        }
+      ],
+      "enabled": true,
+      "icon": "lucide-map-pinned",
+      "color": "purple"
+    },
+    {
+      "id": "5lYfs",
+      "name": "Regni - Strahd",
+      "icon": "lucide-map",
+      "color": "purple",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "tree",
+          "operator": "is",
+          "value": "Curse of Strahd/Mondo/Regioni/"
+        }
+      ],
+      "enabled": true
+    },
+    {
+      "id": "MPoiI",
+      "name": "Oggetto (lettere) - Strahd",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "tags",
+          "operator": "includes",
+          "value": "lettera"
+        }
+      ],
+      "enabled": true,
+      "icon": "lucide-mail",
+      "color": "purple"
+    },
+    {
+      "id": "1ipFg",
+      "name": "Oggetto (magico) - Strahd",
+      "icon": "lucide-wand",
+      "color": "purple",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "tree",
+          "operator": "contains",
+          "value": "Curse of Strahd/"
+        },
+        {
+          "source": "tags",
+          "operator": "includes",
+          "value": "oggettoM"
+        }
+      ],
+      "enabled": true
+    },
+    {
+      "id": "EwDkD",
+      "name": "Sessioni (assente) - Strahd",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "tree",
+          "operator": "contains",
+          "value": "Curse of strahd/sessioni/"
+        },
+        {
+          "source": "tags",
+          "operator": "includes",
+          "value": "Assente"
+        }
+      ],
+      "enabled": true,
+      "icon": "lucide-book-x",
+      "color": "purple"
+    },
+    {
+      "id": "cxrsU",
+      "name": "Sessioni (presente) - Strahd",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "tree",
+          "operator": "contains",
+          "value": "Curse of Strahd/Sessioni/"
+        }
+      ],
+      "enabled": true,
+      "icon": "lucide-book",
+      "color": "purple"
+    },
+    {
+      "id": "cxrsU",
+      "name": "Sessioni (presente) - Strahd",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "tree",
+          "operator": "contains",
+          "value": "Curse of Strahd/Sessioni/"
+        }
+      ],
+      "enabled": true,
+      "icon": "lucide-book",
+      "color": "purple"
+    },
+    {
+      "id": "xyDrx",
+      "name": "Organizzazione",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "tree",
+          "operator": "contains",
+          "value": "Curse of Strahd/"
+        },
+        {
+          "source": "tags",
+          "operator": "includes",
+          "value": "organizzazione"
+        }
+      ],
+      "enabled": true,
+      "icon": "lucide-shield-half",
+      "color": "purple"
+    },
+    {
+      "id": "VGArB",
+      "match": "all",
+      "enabled": true,
+      "name": "Sessioni - Silvestri",
+      "icon": "lucide-book",
+      "color": "green",
+      "conditions": [
+        {
+          "source": "tree",
+          "operator": "contains",
+          "value": "Reami Silvestri/"
+        },
+        {
+          "source": "tags",
+          "operator": "includes",
+          "value": "Sessione"
+        }
+      ]
+    },
+    {
+      "id": "c0UqH",
+      "name": "Sessioni",
+      "icon": "lucide-book",
+      "color": "gray",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "tree",
+          "operator": "contains",
+          "value": "One Shot/"
+        }
+      ],
+      "enabled": true
+    }
+  ],
+  "folderRules": [
+    {
+      "id": "UApNd",
+      "name": "Strahd",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "tree",
+          "operator": "contains",
+          "value": "Curse of Strahd/"
+        }
+      ],
+      "enabled": true,
+      "color": "purple"
+    },
+    {
+      "id": "m8n1w",
+      "name": "Silvestri",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "tree",
+          "operator": "contains",
+          "value": "Reami Silvestri/"
+        }
+      ],
+      "enabled": true,
+      "color": "green"
+    }
+  ]
+}

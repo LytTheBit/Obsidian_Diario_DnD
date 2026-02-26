@@ -1,0 +1,7 @@
+views:
+  - type: cards
+    name: Luoghi - Strahd
+    filters:
+      and:
+        - file.folder.contains("Curse of Strahd/Mondo")
+    image: note.Immagine

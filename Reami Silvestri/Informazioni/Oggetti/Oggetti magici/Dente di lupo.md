@@ -1,0 +1,1 @@
+Spada di [[Minimoto]], creata da un servitore di [[Valisk]] a partire da da un dente appartenuto a [[Failan]] e raccolto da [[Minimoto]] stesso.

@@ -1,0 +1,8 @@
+views:
+  - type: cards
+    name: Organizazioni - Strahd
+    filters:
+      or:
+        - file.folder == "Curse of Strahd/Informazioni/Organizzazioni"
+    imageFit: contain
+    image: note.Immagine

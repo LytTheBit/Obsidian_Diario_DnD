@@ -1,0 +1,10 @@
+views:
+  - type: cards
+    name: Personaggi - Strahd
+    filters:
+      and:
+        - file.folder.contains("Curse of Strahd/Personaggi")
+    order:
+      - file.name
+    image: note.Immagine
+    imageFit: ""

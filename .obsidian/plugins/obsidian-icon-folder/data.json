@@ -1,0 +1,629 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiGuitar",
+      "LiGlasses",
+      "TiCards",
+      "IbStar",
+      "LiSkull",
+      "TiMoneybag",
+      "LiSchool",
+      "LiMap",
+      "LiAxe",
+      "TiTower",
+      "TiBrandCakephp",
+      "LiWand",
+      "LiSword",
+      "TiOld",
+      "TiCrystalBall"
+    ],
+    "recentlyUsedIconsSize": 15,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "Francesco Bonaiuti.md": {
+    "iconName": "LiStar",
+    "iconColor": "#0032ff"
+  },
+  "Immagini e altro": {
+    "iconName": "LiCamera",
+    "iconColor": "#030303"
+  },
+  "Campagna Martina": {
+    "iconName": "LiHeart",
+    "iconColor": "#ffbb00"
+  },
+  "Campagna Martina/Ex campagna Martina": "LiHeartCrack",
+  "Campagna Martina/Ex campagna Martina/Sessioni": "LiBookCopy",
+  "Campagna Martina/Ex campagna Martina/Personaggi": "LiPersonStanding",
+  "Campagna Martina/Ex campagna Martina/Personaggi/NPC": "LiAnnoyed",
+  "Campagna Martina/Ex campagna Martina/Personaggi/Party": "LiSwords",
+  "Campagna Martina/Ex campagna Martina/Personaggi/Party/Aramir Tenebis.md": "LiWand",
+  "Campagna Martina/Ex campagna Martina/Personaggi/Party/Demetra.md": "LiWand",
+  "Campagna Martina/Ex campagna Martina/Personaggi/Party/Ecate.md": "LiFlower2",
+  "Campagna Martina/Ex campagna Martina/Personaggi/Party/Enzo (forse).md": "LiSword",
+  "Campagna Martina/Ex campagna Martina/Personaggi/Party/Moban Saz.md": "LiMoon",
+  "Campagna Martina/Ex campagna Martina/Personaggi/Party/Loki.md": "LiSword",
+  "Campagna Martina/Ex campagna Martina/Personaggi/Party/Yelcan.md": "LiHand",
+  "Campagna Martina/Ex campagna Martina/Personaggi/NPC/Berlusconi.md": "LiCircleDollarSign",
+  "Campagna Martina/Ex campagna Martina/Personaggi/NPC/Alleati": "LiSmile",
+  "Campagna Martina/Ex campagna Martina/Personaggi/NPC/Vaucher.md": "LiSyringe",
+  "Campagna Martina/Ex campagna Martina/Personaggi/NPC/Nemici": "LiAngry",
+  "Campagna Martina/Ex campagna Martina/Personaggi/NPC/Emily.md": "LiRibbon",
+  "Campagna Martina/Mondo": "LiGlobe2",
+  "Campagna Martina/Mondo/Luoghi": "LiMapPinned",
+  "Campagna Martina/Mondo/Città": "LiCastle",
+  "Campagna Martina/Mondo/Regni": "LiMap",
+  "Campagna Martina/Mondo/Regni/Pollirus Empire.md": "LiSnowflake",
+  "Campagna Martina/Mondo/Città/Banus.md": "LiCastle",
+  "Campagna Martina/Mondo/Regni/Terraria.md": "LiHome",
+  "Campagna Martina/Mondo/Luoghi/casa di Vaucher.md": "LiHome",
+  "Campagna Martina/Ex campagna Martina/Sessioni/(Ex) Martina sessione 1.md": "LiBook",
+  "Campagna Martina/Ex campagna Martina/Sessioni/(Ex) Martina sessione 2.md": "LiBook",
+  "Campagna Martina/Ex campagna Martina/(Ex) campagna della Martina.md": {
+    "iconName": "LiHeartCrack",
+    "iconColor": "#c8c800"
+  },
+  "Campagna Martina/Campagna della Martina.md": "LiHeart",
+  "Campagna Martina/Personaggi": "LiPersonStanding",
+  "Campagna Martina/Personaggi/Party": "LiPartyPopper",
+  "Campagna Martina/Personaggi/NPC": "LiAnnoyed",
+  "Campagna Martina/Personaggi/NPC/Alleati": "LiSmile",
+  "Campagna Martina/Personaggi/NPC/Nemici": "LiAngry",
+  "Campagna Martina/Sessioni": "LiBookCopy",
+  "(futura) Campagna Gabriele": {
+    "iconName": "LiQuestionMarkGlyph",
+    "iconColor": "#c80000"
+  },
+  "Campagna Martina/Lore-Informazioni": "LiBookType",
+  "Campagna Martina/Lore-Informazioni/Lore": "LiBookText",
+  "Campagna Martina/Lore-Informazioni/Oggetti": "LiBoxes",
+  "Campagna Martina/Lore-Informazioni/Organizzazioni": "LiContact2",
+  "Campagna Martina/Lore-Informazioni/Lore/Divinità": "LiChurch",
+  "Campagna Martina/Lore-Informazioni/Lore/Energia onirica.md": "LiCloud",
+  "Campagna Martina/Lore-Informazioni/Oggetti/Oggetti comuni": "LiBox",
+  "Campagna Martina/Lore-Informazioni/Oggetti/Oggetti magici": "LiSwords",
+  "Campagna Martina/Lore-Informazioni/Lore/Divinità/Selune.md": "LiMoon",
+  "Campagna Martina/Lore-Informazioni/Lore/Divinità/Tempus.md": "LiSwords",
+  "(futura) Campagna Gabriele/Lore-Informazioni/Lore/Divinità": "LiChurch",
+  "(futura) Campagna Gabriele/Lore-Informazioni/Lore": "LiBookText",
+  "(futura) Campagna Gabriele/Lore-Informazioni": "LiBookType",
+  "(futura) Campagna Gabriele/Lore-Informazioni/Oggetti": "LiBoxes",
+  "(futura) Campagna Gabriele/Lore-Informazioni/Oggetti/Oggetti magici": "LiSwords",
+  "(futura) Campagna Gabriele/Lore-Informazioni/Oggetti/Oggetti comuni": "LiBox",
+  "(futura) Campagna Gabriele/Lore-Informazioni/Organizzazioni": "LiContactRound",
+  "(futura) Campagna Gabriele/Personaggi/NPC/Alleati": "LiSmile",
+  "(futura) Campagna Gabriele/Personaggi/NPC/Nemici": "LiAngry",
+  "(futura) Campagna Gabriele/Personaggi/NPC": "LiAnnoyed",
+  "(futura) Campagna Gabriele/Personaggi": "LiPersonStanding",
+  "(futura) Campagna Gabriele/Mondo": "LiGlobe2",
+  "(futura) Campagna Gabriele/Personaggi/Party": "LiPartyPopper",
+  "(futura) Campagna Gabriele/Sessioni": "LiBookCopy",
+  "(futura) Campagna Gabriele/Mondo/Città": "LiCastle",
+  "(futura) Campagna Gabriele/Mondo/Luoghi": "LiMapPinned",
+  "(futura) Campagna Gabriele/Mondo/Regni": "LiMap",
+  "(futura) Campagna Gabriele/Campagna di  Gabriele.md": {
+    "iconName": "LiQuestionMarkGlyph",
+    "iconColor": "#c80000"
+  },
+  "(futura) Campagna Gabriele/Lore-Informazioni/Organizzazioni/Gilde": "LiSwords",
+  "(futura) Campagna Gabriele/Lore-Informazioni/Organizzazioni/Culti": "LiChurch",
+  "(futura) Campagna Gabriele/Lore-Informazioni/Organizzazioni/Criminali": "LiKey",
+  "Curse of Strahd": {
+    "iconName": "LiVenetianMask",
+    "iconColor": "#640064"
+  },
+  "Curse of Strahd/Mondo": {
+    "iconName": "LiGlobe2",
+    "iconColor": "#7d0064"
+  },
+  "Curse of Strahd/Personaggi": {
+    "iconName": "LiPersonStanding",
+    "iconColor": "#640000"
+  },
+  "Curse of Strahd/Sessioni": {
+    "iconName": "LiBookCopy",
+    "iconColor": "#7d0064"
+  },
+  "Curse of Strahd/Mondo/Città": {
+    "iconName": "LiCastle",
+    "iconColor": "#7d0064"
+  },
+  "Curse of Strahd/Mondo/Luoghi": {
+    "iconName": "LiMapPinned",
+    "iconColor": "#7d0064"
+  },
+  "Curse of Strahd/Mondo/Regioni": {
+    "iconName": "LiMap",
+    "iconColor": "#7d0064"
+  },
+  "Curse of Strahd/Personaggi/NPC": {
+    "iconName": "LiAnnoyed",
+    "iconColor": "#7d0064"
+  },
+  "Curse of Strahd/Personaggi/Party": {
+    "iconName": "LiPartyPopper",
+    "iconColor": "#7d0064"
+  },
+  "Curse of Strahd/Personaggi/NPC/Alleati": {
+    "iconName": "LiSmile",
+    "iconColor": "#7d0064"
+  },
+  "Curse of Strahd/Personaggi/NPC/Nemici": {
+    "iconName": "LiAngry",
+    "iconColor": "#7d0064"
+  },
+  "Curse of Strahd/Curse of Strahd.md": {
+    "iconName": "LiVenetianMask",
+    "iconColor": "#c80064"
+  },
+  "Curse of Strahd/Personaggi/Party/Thomas Bertrand.md": {
+    "iconName": "LiLamp",
+    "iconColor": "#c80064"
+  },
+  "Curse of Strahd/Mondo/Luoghi/Cancelli.md": {
+    "iconName": "LiDoorClosed",
+    "iconColor": "#c80064"
+  },
+  "Curse of Strahd/Personaggi/NPC/Ishmark Indirovich.md": {
+    "iconName": "LiWine",
+    "iconColor": "#c80064"
+  },
+  "Curse of Strahd/Personaggi/NPC/Kolyan Indirovich.md": {
+    "iconName": "LiCoins",
+    "iconColor": "#c80064"
+  },
+  "Curse of Strahd/Personaggi/NPC/Gregor Stonovic.md": {
+    "iconName": "LiSkull",
+    "iconColor": "#c80064"
+  },
+  "Curse of Strahd/Sessioni/Strahd sessione 1.md": {
+    "iconName": "LiBook",
+    "iconColor": "#c80064"
+  },
+  "Curse of Strahd/Mondo/Luoghi/Taverna del vino del sangue.md": {
+    "iconName": "LiWine",
+    "iconColor": "#c80064"
+  },
+  "Curse of Strahd/Mondo/Luoghi/Castello di Strahd.md": {
+    "iconName": "LiCastle",
+    "iconColor": "#c80064"
+  },
+  "Curse of Strahd/Mondo/Regioni/Revenloft.md": {
+    "iconName": "LiMap",
+    "iconColor": "#c80064"
+  },
+  "Curse of Strahd/Informazioni": {
+    "iconName": "LiBookType",
+    "iconColor": "#7d0064"
+  },
+  "Curse of Strahd/Informazioni/Lore": {
+    "iconName": "LiBookText",
+    "iconColor": "#7d0064"
+  },
+  "Curse of Strahd/Informazioni/Oggetti": {
+    "iconName": "LiBoxes",
+    "iconColor": "#7d0064"
+  },
+  "Curse of Strahd/Informazioni/Organizzazioni": {
+    "iconName": "LiContactRound",
+    "iconColor": "#7d0064"
+  },
+  "Curse of Strahd/Informazioni/Lore/Nebbia.md": {
+    "iconName": "LiCloud",
+    "iconColor": "#c80064"
+  },
+  "Curse of Strahd/Informazioni/Lore/Divinità": {
+    "iconName": "LiChurch",
+    "iconColor": "#7d0064"
+  },
+  "Curse of Strahd/Informazioni/Oggetti/Oggetti comuni": {
+    "iconName": "LiBox",
+    "iconColor": "#7d0064"
+  },
+  "Curse of Strahd/Informazioni/Oggetti/Oggetti magici": {
+    "iconName": "LiSwords",
+    "iconColor": "#7d0064"
+  },
+  "Curse of Strahd/Informazioni/Oggetti/Oggetti comuni/lettera del borgomastro.md": {
+    "iconName": "LiMail",
+    "iconColor": "#c80064"
+  },
+  "Curse of Strahd/Informazioni/Oggetti/Oggetti magici/Torta salata (consumabile).md": {
+    "iconName": "LiCakeSlice",
+    "iconColor": "#c80064"
+  },
+  "Curse of Strahd/Informazioni/Lore/Divinità/Lathander - Dio della luce.md": {
+    "iconName": "LiSun",
+    "iconColor": "#c80064"
+  },
+  "Curse of Strahd/Informazioni/Lore/strane sparizioni.md": {
+    "iconName": "LiQuestionMarkGlyph",
+    "iconColor": "#c80064"
+  },
+  "Curse of Strahd/Informazioni/Oggetti/Oggetti comuni/Lettera di Strahd a Sigfrit.md": {
+    "iconName": "LiMail",
+    "iconColor": "#c80064"
+  },
+  "Curse of Strahd/Informazioni/Oggetti/Oggetti comuni/Lettera di Strahd a lord Durst.md": {
+    "iconName": "LiMail",
+    "iconColor": "#c80064"
+  },
+  "Curse of Strahd/Personaggi/NPC/Padre Donovic.md": {
+    "iconName": "LiChurch",
+    "iconColor": "#c80064"
+  },
+  "Curse of Strahd/Personaggi/NPC/Nemici/Lord Durst.md": {
+    "iconName": "LiFlower",
+    "iconColor": "#c80064"
+  },
+  "Curse of Strahd/Personaggi/NPC/Nemici/Strahd.md": {
+    "iconName": "LiVenetianMask",
+    "iconColor": "#c80064"
+  },
+  "Curse of Strahd/Personaggi/NPC/Torn Durst.md": {
+    "iconName": "LiFlower",
+    "iconColor": "#c80064"
+  },
+  "Curse of Strahd/Personaggi/NPC/Rose Durst.md": {
+    "iconName": "LiFlower",
+    "iconColor": "#c80064"
+  },
+  "Curse of Strahd/Personaggi/NPC/Demis.md": {
+    "iconName": "LiSkull",
+    "iconColor": "#c80064"
+  },
+  "Curse of Strahd/Mondo/Luoghi/Magione dei Durst.md": {
+    "iconName": "LiHome",
+    "iconColor": "#c80064"
+  },
+  "Curse of Strahd/Informazioni/Oggetti/Oggetti magici/Socrate.md": {
+    "iconName": "TiWood",
+    "iconColor": "#c80064"
+  },
+  "Curse of Strahd/Sessioni/Strahd sessione 2.md": {
+    "iconName": "LiBook",
+    "iconColor": "#c80064"
+  },
+  "Curse of Strahd/Personaggi/Party/Sigfrit Von Drachenfels.md": {
+    "iconName": "LiSword",
+    "iconColor": "#c80064"
+  },
+  "Curse of Strahd/Personaggi/Party/Mevis Noctis.md": {
+    "iconName": "LiSwords",
+    "iconColor": "#c80064"
+  },
+  "Curse of Strahd/Sessioni/Strahd sessione 3.md": {
+    "iconName": "LiBook",
+    "iconColor": "#c80064"
+  },
+  "Curse of Strahd/Sessioni/Strahd sessione 5.md": {
+    "iconName": "LiBookX",
+    "iconColor": "#c80064"
+  },
+  "Curse of Strahd/Sessioni/Strahd sessione 4.md": {
+    "iconName": "LiBookX",
+    "iconColor": "#c80064"
+  },
+  "Curse of Strahd/Sessioni/Strahd sessione 6.md": {
+    "iconName": "LiBook",
+    "iconColor": "#c80064"
+  },
+  "Curse of Strahd/Personaggi/NPC/Alleati/Vasili Von Holtz.md": {
+    "iconName": "TiHorse",
+    "iconColor": "#c80064"
+  },
+  "Curse of Strahd/Personaggi/NPC/Alleati/Danika Martikov.md": {
+    "iconName": "LiBird",
+    "iconColor": "#c80064"
+  },
+  "Curse of Strahd/Personaggi/NPC/Alleati/Adrian Martikov.md": {
+    "iconName": "LiBird",
+    "iconColor": "#c80064"
+  },
+  "Curse of Strahd/Personaggi/NPC/Alleati/Urwin Martikov.md": {
+    "iconName": "LiBird",
+    "iconColor": "#c80064"
+  },
+  "Curse of Strahd/Mondo/Città/Vallaki.md": {
+    "iconName": "CoHouse03",
+    "iconColor": "#c80064"
+  },
+  "Curse of Strahd/Personaggi/NPC/Nemici/Rahadin.md": {
+    "iconName": "LiVenetianMask",
+    "iconColor": "#c80064"
+  },
+  "Curse of Strahd/Informazioni/Oggetti/Oggetti magici/fiori incastonati in cristalli (consumabile).md": {
+    "iconName": "TiCrystalBall",
+    "iconColor": "#c80064"
+  },
+  "Curse of Strahd/Mondo/Luoghi/Blue Water.md": {
+    "iconName": "CoHouse03",
+    "iconColor": "#c80064"
+  },
+  "Curse of Strahd/Informazioni/Organizzazioni/Corvi mannari.md": {
+    "iconName": "LiBird",
+    "iconColor": "#c80064"
+  },
+  "Curse of Strahd/Informazioni/Organizzazioni/Driadi.md": {
+    "iconName": "LiLeaf",
+    "iconColor": "#c80064"
+  },
+  "Curse of Strahd/Sessioni/Strahd sessione 7.md": {
+    "iconName": "LiBook",
+    "iconColor": "#c80064"
+  },
+  "Curse of Strahd/Mondo/Luoghi/Torre del mago.md": {
+    "iconName": "TiTower",
+    "iconColor": "#c80064"
+  },
+  "Curse of Strahd/Informazioni/Organizzazioni/Megere (Strhad).md": {
+    "iconName": "TiBrandCakephp",
+    "iconColor": "#c80064"
+  },
+  "Curse of Strahd/Informazioni/Organizzazioni/Druidi del Sangue.md": {
+    "iconName": "LiLeaf",
+    "iconColor": "#c80064"
+  },
+  "Curse of Strahd/Informazioni/Oggetti/Oggetti magici/Gulthias Staff.md": {
+    "iconName": "LiWand",
+    "iconColor": "#c80064"
+  },
+  "Curse of Strahd/Personaggi/NPC/Nemici/Baba Lasyga.md": {
+    "iconName": "TiOld",
+    "iconColor": "#c80064"
+  },
+  "Curse of Strahd/Personaggi/NPC/Alleati/Davian Martikov.md": {
+    "iconName": "LiBird",
+    "iconColor": "#c80064"
+  },
+  "Curse of Strahd/Personaggi/NPC/Nemici/Morganta.md": {
+    "iconName": "LiCakeSlice",
+    "iconColor": "#c80064"
+  },
+  "Reami Silvestri": {
+    "iconName": "LiTrees",
+    "iconColor": "#004600"
+  },
+  "Reami Silvestri/Lore-Informazioni": {
+    "iconName": "LiBookType",
+    "iconColor": "#005a00"
+  },
+  "Reami Silvestri/Mondo": {
+    "iconName": "LiGlobe2",
+    "iconColor": "#005a00"
+  },
+  "Reami Silvestri/Campagna di Nodar.md": {
+    "iconName": "LiTreePine",
+    "iconColor": "#004b00"
+  },
+  "Reami Silvestri/Personaggi": {
+    "iconName": "LiPersonStanding",
+    "iconColor": "#005a00"
+  },
+  "Reami Silvestri/Sessioni": {
+    "iconName": "LiBookCopy",
+    "iconColor": "#005a00"
+  },
+  "Reami Silvestri/Lore-Informazioni/Lore": {
+    "iconName": "LiBookText",
+    "iconColor": "#005500"
+  },
+  "Reami Silvestri/Lore-Informazioni/Oggetti": {
+    "iconName": "LiBoxes",
+    "iconColor": "#005a00"
+  },
+  "Reami Silvestri/Lore-Informazioni/Organizzazioni": {
+    "iconName": "LiContact2",
+    "iconColor": "#005a00"
+  },
+  "Reami Silvestri/Personaggi/NPC": {
+    "iconName": "LiAnnoyed",
+    "iconColor": "#005a00"
+  },
+  "Reami Silvestri/Mondo/Città": "LiCastle",
+  "Reami Silvestri/Personaggi/Party": {
+    "iconName": "LiSwords",
+    "iconColor": "#005a00"
+  },
+  "Reami Silvestri/Mondo/Luoghi": "LiMapPinned",
+  "Reami Silvestri/Mondo/Regioni": "LiMap",
+  "Reami Silvestri/Sessioni/(1) Arco di Visperwood": {
+    "iconName": "LiTreePine",
+    "iconColor": "#005a00"
+  },
+  "Reami Silvestri/Sessioni/(2) Arco di Boscoscuro": {
+    "iconName": "LiTreeDeciduous",
+    "iconColor": "#005a00"
+  },
+  "Reami Silvestri/Lore-Informazioni/Lore/animali corrotti.md": "LiAngry",
+  "Reami Silvestri/Lore-Informazioni/Lore/Divinità": "LiChurch",
+  "Reami Silvestri/Lore-Informazioni/Lore/Semi-perfetti.md": "LiPersonStanding",
+  "Reami Silvestri/Lore-Informazioni/Lore/siccità.md": "LiSun",
+  "Reami Silvestri/Lore-Informazioni/Oggetti/Oggetti comuni": {
+    "iconName": "LiBox",
+    "iconColor": "#005000"
+  },
+  "Reami Silvestri/Lore-Informazioni/Oggetti/Oggetti magici": {
+    "iconName": "LiSwords",
+    "iconColor": "#005000"
+  },
+  "Reami Silvestri/Lore-Informazioni/Organizzazioni/Arpisti.md": {
+    "iconName": "LiGuitar",
+    "iconColor": "#00a000"
+  },
+  "Reami Silvestri/Lore-Informazioni/Organizzazioni/Magnimopus.md": {
+    "iconName": "LiFlaskRound",
+    "iconColor": "#00a000"
+  },
+  "Reami Silvestri/Lore-Informazioni/Organizzazioni/Resistenza.md": {
+    "iconName": "LiAxe",
+    "iconColor": "#00a000"
+  },
+  "Reami Silvestri/Lore-Informazioni/Organizzazioni/maschere gemelle.md": {
+    "iconName": "LiVenetianMask",
+    "iconColor": "#00a000"
+  },
+  "Reami Silvestri/Lore-Informazioni/Organizzazioni/saggi.md": {
+    "iconName": "LiCrown",
+    "iconColor": "#00a000"
+  },
+  "Reami Silvestri/Mondo/Città/Blablabla.md": "LiWine",
+  "Reami Silvestri/Mondo/Città/Boscoscuro.md": "LiTrees",
+  "Reami Silvestri/Personaggi/Party/Ashtar.md": {
+    "iconName": "LiCat",
+    "iconColor": "#009600"
+  },
+  "Reami Silvestri/Mondo/Città/Visperwood.md": "LiTreePine",
+  "Reami Silvestri/Personaggi/Party/Minimoto.md": {
+    "iconName": "LiRat",
+    "iconColor": "#0041ff"
+  },
+  "Reami Silvestri/Personaggi/NPC/Alleati": {
+    "iconName": "LiSmile",
+    "iconColor": "#005a00"
+  },
+  "Reami Silvestri/Personaggi/Party/Singrid.md": {
+    "iconName": "LiWand",
+    "iconColor": "#009600"
+  },
+  "Reami Silvestri/Personaggi/NPC/Nemici": {
+    "iconName": "LiAngry",
+    "iconColor": "#005a00"
+  },
+  "Reami Silvestri/Personaggi/NPC/Vice Gilda.md": {
+    "iconName": "LiPocketKnife",
+    "iconColor": "#009600"
+  },
+  "Reami Silvestri/Personaggi/NPC/Elisabeth.md": {
+    "iconName": "LiShieldPlus",
+    "iconColor": "#008c00"
+  },
+  "Reami Silvestri/Personaggi/NPC/Rakel.md": {
+    "iconName": "LiShieldHalf",
+    "iconColor": "#009600"
+  },
+  "Reami Silvestri/Mondo/Luoghi/Magione di Valisk.md": "LiHome",
+  "Reami Silvestri/Mondo/Luoghi/taverna del tronco spezzato.md": "LiAxe",
+  "Reami Silvestri/Personaggi/NPC/Lucius.md": {
+    "iconName": "LiChefHat",
+    "iconColor": "#009600"
+  },
+  "Reami Silvestri/Mondo/Regioni/Reami silvestri.md": "LiTrees",
+  "Reami Silvestri/Sessioni/(1) Arco di Visperwood/Nodar sessione 2.md": {
+    "iconName": "LiBook",
+    "iconColor": "#008c00"
+  },
+  "Reami Silvestri/Sessioni/(1) Arco di Visperwood/Nodar sessione 1.md": {
+    "iconName": "LiBook",
+    "iconColor": "#008c00"
+  },
+  "Reami Silvestri/Sessioni/(1) Arco di Visperwood/Nodar sessione 3.md": {
+    "iconName": "LiBook",
+    "iconColor": "#008c00"
+  },
+  "Reami Silvestri/Sessioni/(2) Arco di Boscoscuro/Nodar sessione 7.md": {
+    "iconName": "LiBook",
+    "iconColor": "#009600"
+  },
+  "Reami Silvestri/Sessioni/(2) Arco di Boscoscuro/Nodar sessione 4.md": {
+    "iconName": "LiBook",
+    "iconColor": "#009600"
+  },
+  "Reami Silvestri/Sessioni/(2) Arco di Boscoscuro/Nodar sessione 6.md": {
+    "iconName": "LiBook",
+    "iconColor": "#009600"
+  },
+  "Reami Silvestri/Sessioni/(2) Arco di Boscoscuro/Nodar sessione 8.md": {
+    "iconName": "LiBook",
+    "iconColor": "#00a000"
+  },
+  "Reami Silvestri/Sessioni/(2) Arco di Boscoscuro/Nodar sessione 5.md": {
+    "iconName": "LiBook",
+    "iconColor": "#009600"
+  },
+  "Reami Silvestri/Lore-Informazioni/Oggetti/Oggetti magici/Bastone di Valisk.md": {
+    "iconName": "LiWand2",
+    "iconColor": "#00a000"
+  },
+  "Reami Silvestri/Lore-Informazioni/Oggetti/Oggetti magici/Dente di lupo.md": {
+    "iconName": "LiSword",
+    "iconColor": "#00a000"
+  },
+  "Reami Silvestri/Lore-Informazioni/Oggetti/Oggetti magici/Anello nero.md": {
+    "iconName": "LiCircle",
+    "iconColor": "#00a000"
+  },
+  "Reami Silvestri/Lore-Informazioni/Oggetti/Oggetti magici/Mantello di Valisk.md": {
+    "iconName": "LiTriangle",
+    "iconColor": "#00a000"
+  },
+  "Reami Silvestri/Personaggi/NPC/Nemici/Failan.md": "LiDog",
+  "Reami Silvestri/Personaggi/NPC/Nemici/Darian.md": "LiSword",
+  "Reami Silvestri/Personaggi/NPC/Nemici/Liria.md": "LiVenetianMask",
+  "Reami Silvestri/Personaggi/NPC/Nemici/Darius Velian.md": "LiGem",
+  "Reami Silvestri/Personaggi/NPC/Nemici/Trone.md": "LiPocketKnife",
+  "Reami Silvestri/Personaggi/NPC/Nemici/Valisk.md": "LiMoon",
+  "Reami Silvestri/Personaggi/NPC/Alleati/Eldara.md": "LiBeer",
+  "Reami Silvestri/Personaggi/NPC/Alleati/Silas.md": "LiSword",
+  "Reami Silvestri/Personaggi/NPC/Alleati/Eiandra.md": "LiFlower",
+  "Reami Silvestri/Personaggi/NPC/Alleati/Lupo grigio.md": "LiDog",
+  "Reami Silvestri/Personaggi/NPC/Alleati/Lyria.md": "LiGuitar",
+  "Reami Silvestri/Personaggi/NPC/Alleati/Sindaco.md": "LiSignpost",
+  "Curse of Strahd/Personaggi/NPC/Izek Strazni.md": "LiAxe",
+  "Curse of Strahd/Informazioni/Organizzazioni/Vistani.md": {
+    "iconName": "LiDroplets",
+    "iconColor": "#c80064"
+  },
+  "Curse of Strahd/Personaggi/Party/Gavriel Noctis.md": {
+    "iconName": "LiSun",
+    "iconColor": "#c80064"
+  },
+  "Curse of Strahd/Personaggi/NPC/Mary la pazza.md": {
+    "iconName": "LiHeartCrack",
+    "iconColor": "#c80064"
+  },
+  "Curse of Strahd/Personaggi/NPC/Alleati/Ezmeralda.md": {
+    "iconName": "LiSword",
+    "iconColor": "#c80064"
+  },
+  "Curse of Strahd/Mondo/Città/Villaggio di Barovia.md": {
+    "iconName": "LiHouse",
+    "iconColor": "#c80064"
+  },
+  "Curse of Strahd/Mondo/Regioni/Reame di Barovia.md": "LiMap",
+  "Curse of Strahd/Mondo/Luoghi/Orfanotrofio (Vallaki).md": "LiSchool",
+  "Curse of Strahd/Personaggi/NPC/Baldrith e Perriwhiple.md": "TiMoneybag",
+  "Curse of Strahd/Personaggi/NPC/Doru Donovic.md": "LiSkull",
+  "Curse of Strahd/Personaggi/NPC/Ireena Kolyana.md": "IbStar",
+  "Curse of Strahd/Personaggi/NPC/Madam Eva.md": "TiCards",
+  "Curse of Strahd/Personaggi/NPC/Preside Claudia.md": "LiGlasses",
+  "Curse of Strahd/Personaggi/NPC/Rictavio.md": "LiGuitar",
+  "Curse of Strahd/Personaggi/Party/Kenjiro Nozomi.md": {
+    "iconName": "LiCat",
+    "iconColor": "#c80064"
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "main": {
+    "id": "d7fde6901f6666e5",
+    "type": "split",
+    "children": [
+      {
+        "id": "e1669ea706bb4faa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "caa6e2a9db5574a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-Materiale D&D/Hombrew/Snyper crosbow.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Snyper crosbow"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0ef123d5c805d725",
+    "type": "split",
+    "children": [
+      {
+        "id": "aab7bbf3bacd6529",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e6b77bf546337862",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "44d85e695942153d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "2bdd1756c86fd8f2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "953236c5c13a70b0",
+    "type": "split",
+    "children": [
+      {
+        "id": "584801860fd44238",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "62572dd63bc65b49",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c87db6fd68cb2a24",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "ea0152a8dc11be0b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "3cd69a3c1c6f1893",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      },
+      {
+        "id": "0371b2577b2ea900",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "21a21969dd035c26",
+            "type": "leaf",
+            "state": {
+              "type": "fantasy-statblocks-creature-pane",
+              "state": {},
+              "icon": "skull",
+              "title": "Combatant"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "iconic:Open rulebook": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-5e-statblocks:Open Creature pane": false
+    }
+  },
+  "active": "caa6e2a9db5574a1",
+  "lastOpenFiles": [
+    "0-Materiale D&D/Hombrew/Wizard - Graviturgy Magic Revisited.md",
+    "0-Materiale D&D/Hombrew/Snyper crosbow.md",
+    "0-Materiale D&D/Incantesimi/-Libro degli incantesimi-.md",
+    "0-Materiale D&D/Incantesimi/Cantrip (level 0).md",
+    "One Shot/Daggerheart Quickstart - Sablewood Messengers.md",
+    "Untitled.md",
+    "Curse of Strahd/Curse of Strahd.md",
+    "Reami Silvestri/Campagna di Nodar.md",
+    "Curse of Strahd/Wintersplinter.md",
+    "Sablewood Messengers.png",
+    "Card Dati/Sessioni.base",
+    "Card Dati/Personaggi.base",
+    "One Shot/Untitled.md",
+    "Curse of Strahd/Sessioni/Stagione 1/Strahd sessione 7.md",
+    "Curse of Strahd/Sessioni/Stagione 1/Strahd sessione 1.md",
+    "Curse of Strahd/Informazioni/Organizzazioni/Vistani.md",
+    "-template-/Campagna di ---.md",
+    "One Shot",
+    "Curse of Strahd/Informazioni/Organizzazioni/Criminali",
+    "Card Dati/Organizazioni.base",
+    "Card Dati/Oggetti.base",
+    "Card Dati/Luoghi.base",
+    "Curse of Strahd/Informazioni/Oggetti/Oggetti magici/Fiori incastonati in cristalli (consumabile).md",
+    "Card Dati",
+    "Curse of Strahd/Mondo/Regioni/Reame di Barovia.md",
+    "Curse of Strahd/Mondo/Regioni/Revenloft.md",
+    "Curse of Strahd/Mondo/Luoghi/Taverna del vino del sangue.md",
+    "Curse of Strahd/Mondo/Luoghi/Torre del mago.md",
+    "Curse of Strahd/Mondo/Luoghi/Yester hill.md",
+    "Curse of Strahd/Mondo/Luoghi/Blue Water.md",
+    "Curse of Strahd/Mondo/Città/Vallaki.md",
+    "Curse of Strahd/Mondo/Città/Villaggio di Barovia.md",
+    "Curse of Strahd/Sessioni/Stagione 2/Strahd sessione 10.md",
+    "Curse of Strahd/Sessioni/Stagione 1/Strahd sessione 9.md",
+    "Curse of Strahd/Personaggi/Party/Thomas Bertrand.md",
+    "Baron Vargas Vallakovich.png",
+    "0-Immagini e altro/Lorenzo/Untitled figlia.png",
+    "0-Immagini e altro/Lorenzo/Perle delle driadi.png",
+    "0-Immagini e altro/Lorenzo/Nobilessa Vallaki.png",
+    "0-Immagini e altro/Lorenzo/Ernst Larnak.png",
+    "Cards",
+    "0-Immagini e altro/Wizard - Graviturgy Magic Revisited.png",
+    "Curse of Strahd/Sessioni/Stagione 2",
+    "0-Immagini e altro/Lorenzo/Lettera generica.png",
+    "0-Immagini e altro/Lorenzo/Blue Water.png",
+    "0-Immagini e altro/Lorenzo/CancelliBorovia.png"
+  ]
+}
