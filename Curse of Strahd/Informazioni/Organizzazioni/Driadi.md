@@ -4,6 +4,8 @@ tags:
   - donna
   - organizzazione
 Immagine: Driadi.png
+aliases:
+  - Fane
 ---
 Razza che un tempo controllava le foreste e la selva fatata di questo regno. Ormai sono state ridotte in pessime condizioni da [[Strahd]]
 
