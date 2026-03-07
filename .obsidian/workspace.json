@@ -11,14 +11,13 @@
             "id": "caa6e2a9db5574a1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Curse of Strahd/Personaggi/NPC/Alleati/Ernst Larnak.md",
-                "mode": "source",
-                "source": false
+                "file": "Card Dati/Organizazioni.base",
+                "viewName": "Organizazioni - Strahd"
               },
-              "icon": "lucide-file",
-              "title": "Ernst Larnak"
+              "icon": "lucide-layout-grid",
+              "title": "Organizazioni"
             }
           }
         ]
@@ -186,16 +185,28 @@
   },
   "active": "caa6e2a9db5574a1",
   "lastOpenFiles": [
+    "Curse of Strahd/Personaggi/Party/Zi Han.md",
+    "Curse of Strahd/Informazioni/Organizzazioni/Ribelli Vallaki.md",
+    "0-Immagini e altro/Ribelli Vallaki.png",
+    "Curse of Strahd/Informazioni/Organizzazioni/Governo di Vallaki.md",
+    "Governo di Vallaki.png",
+    "Curse of Strahd/Personaggi/NPC/Nemici/Baron Vargas Vallakovich.md",
+    "Curse of Strahd/Personaggi/NPC/Nemici/Morganta.md",
+    "Curse of Strahd/Personaggi/NPC/Nemici/Rahadin.md",
+    "Curse of Strahd/Personaggi/Party/Mevis Noctis.md",
+    "Curse of Strahd/Personaggi/NPC/Nemici/Izek Strazni.md",
+    "Curse of Strahd/Personaggi/NPC/Nemici/Lord Durst.md",
+    "Curse of Strahd/Personaggi/NPC/Nemici/Strahd.md",
+    "Reami Silvestri/Personaggi/NPC/Nemici/Valisk.md",
+    "Curse of Strahd/Informazioni/Organizzazioni/Vistani.md",
+    "Curse of Strahd/Personaggi/NPC/Alleati/Ernst Larnak.md",
     "Curse of Strahd/Personaggi/NPC/Alleati/Davian Martikov.md",
     "Curse of Strahd/Personaggi/NPC/Alleati/Danika Martikov.md",
     "Curse of Strahd/Personaggi/NPC/Alleati/Adrian Martikov.md",
     "Curse of Strahd/Informazioni/Organizzazioni/Party (CoF).md",
     "Party stemma.png",
-    "Curse of Strahd/Informazioni/Organizzazioni/Vistani.md",
-    "Zi Han.md",
     "README.md",
     "Curse of Strahd/Personaggi/Party/Kenjiro Nozomi.md",
-    "Curse of Strahd/Personaggi/Party/Mevis Noctis.md",
     "Curse of Strahd/Personaggi/Party/Sigfrit Von Drachenfels.md",
     "Curse of Strahd/Sessioni/Stagione 2/Strahd sessione 11.md",
     "Arabelle.png",
@@ -203,17 +214,6 @@
     "Curse of Strahd/Personaggi/Party/Gavriel Noctis.md",
     "Curse of Strahd/Personaggi/NPC/Arabelle.md",
     "Curse of Strahd/Personaggi/NPC/Torn Durst.md",
-    "Curse of Strahd/Personaggi/NPC/Stalla Watcher.md",
-    "Curse of Strahd/Personaggi/NPC/Rudolf Van Ricten.md",
-    "Curse of Strahd/Personaggi/NPC/Rose Durst.md",
-    "Curse of Strahd/Personaggi/NPC/Rictavio.md",
-    "Curse of Strahd/Personaggi/NPC/Preside Claudia.md",
-    "Curse of Strahd/Personaggi/NPC/Padre Donovic.md",
-    "Curse of Strahd/Personaggi/NPC/Mary la pazza.md",
-    "Curse of Strahd/Personaggi/NPC/Madam Eva.md",
-    "Curse of Strahd/Personaggi/NPC/Kolyan Indirovich.md",
-    "Curse of Strahd/Personaggi/NPC/Ishmark Indirovich.md",
-    "Curse of Strahd/Personaggi/NPC/Ireena Kolyana.md",
     "0-Immagini e altro/Baron Vargas Vallakovich.png",
     "0-Immagini e altro/Sablewood Messengers.png",
     "Card Dati/Luoghi.base",
@@ -229,8 +229,6 @@
     "0-Immagini e altro/Lorenzo/Nobilessa Vallaki.png",
     "0-Immagini e altro/Lorenzo/Ernst Larnak.png",
     "Cards",
-    "0-Immagini e altro/Wizard - Graviturgy Magic Revisited.png",
-    "Curse of Strahd/Sessioni/Stagione 2",
-    "0-Immagini e altro/Lorenzo/Lettera generica.png"
+    "Curse of Strahd/Sessioni/Stagione 2"
   ]
 }

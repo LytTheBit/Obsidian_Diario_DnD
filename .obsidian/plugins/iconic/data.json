@@ -57,6 +57,10 @@
       "icon": "lucide-lamp",
       "color": "blue"
     },
+    "Curse of Strahd/Personaggi/Party/Zi Han.md": {
+      "icon": "lucide-turtle",
+      "color": "purple"
+    },
     "Curse of Strahd/Sessioni": {
       "icon": "lucide-library-big",
       "unsynced": [
