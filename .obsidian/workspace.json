@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Curse of Strahd/Informazioni/Organizzazioni/Vistani.md",
+                "file": "Curse of Strahd/Personaggi/NPC/Alleati/Ernst Larnak.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vistani"
+              "title": "Ernst Larnak"
             }
           }
         ]
@@ -186,10 +186,14 @@
   },
   "active": "caa6e2a9db5574a1",
   "lastOpenFiles": [
-    "Party (CoF).md",
+    "Curse of Strahd/Personaggi/NPC/Alleati/Davian Martikov.md",
+    "Curse of Strahd/Personaggi/NPC/Alleati/Danika Martikov.md",
+    "Curse of Strahd/Personaggi/NPC/Alleati/Adrian Martikov.md",
+    "Curse of Strahd/Informazioni/Organizzazioni/Party (CoF).md",
+    "Party stemma.png",
+    "Curse of Strahd/Informazioni/Organizzazioni/Vistani.md",
     "Zi Han.md",
     "README.md",
-    "Curse of Strahd/Informazioni/Organizzazioni/Vistani.md",
     "Curse of Strahd/Personaggi/Party/Kenjiro Nozomi.md",
     "Curse of Strahd/Personaggi/Party/Mevis Noctis.md",
     "Curse of Strahd/Personaggi/Party/Sigfrit Von Drachenfels.md",
@@ -210,9 +214,6 @@
     "Curse of Strahd/Personaggi/NPC/Kolyan Indirovich.md",
     "Curse of Strahd/Personaggi/NPC/Ishmark Indirovich.md",
     "Curse of Strahd/Personaggi/NPC/Ireena Kolyana.md",
-    "Curse of Strahd/Personaggi/NPC/Gregor Stonovic.md",
-    "Curse of Strahd/Personaggi/NPC/Doru Donovic.md",
-    "Curse of Strahd/Personaggi/NPC/Demis.md",
     "0-Immagini e altro/Baron Vargas Vallakovich.png",
     "0-Immagini e altro/Sablewood Messengers.png",
     "Card Dati/Luoghi.base",
@@ -230,7 +231,6 @@
     "Cards",
     "0-Immagini e altro/Wizard - Graviturgy Magic Revisited.png",
     "Curse of Strahd/Sessioni/Stagione 2",
-    "0-Immagini e altro/Lorenzo/Lettera generica.png",
-    "0-Immagini e altro/Lorenzo/Blue Water.png"
+    "0-Immagini e altro/Lorenzo/Lettera generica.png"
   ]
 }
