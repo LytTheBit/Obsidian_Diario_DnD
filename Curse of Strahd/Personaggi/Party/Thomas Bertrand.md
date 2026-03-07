@@ -8,6 +8,7 @@ tags:
 Immagine: Thomas Bertrand.png
 aliases:
   - Il Professore
+Fazioni: "[[Party (CoF)]]"
 ---
 Personaggio di [[Francesco Bonaiuti]] (ovvero io) nella campagna di [[Curse of Strahd]]
 è un warforged mago della cronomanzia

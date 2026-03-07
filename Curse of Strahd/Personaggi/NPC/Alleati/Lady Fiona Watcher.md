@@ -6,6 +6,7 @@ tags:
   - politico
 Immagine: Nobilessa Vallaki.png
 Città: "[[Vallaki]]"
+Fazioni: "[[Ribelli Vallaki]]"
 ---
 Donna a capo della seconda famiglia nobile più influente a [[Vallaki]]. Ha una [[Stalla Watcher|figlia]] e un [[Ernst Larnak|servitore fedele]].
 Si oppone fermamente alla dittatura del borgomastro [[Baron Vargas Vallakovich]] da quando quest'ultimo e suo figlio [[Figlio Borgomastro (Vallaki)]] hanno maledetto sua [[Stalla Watcher|figlia]] costringendola a comportarsi come un gatto.

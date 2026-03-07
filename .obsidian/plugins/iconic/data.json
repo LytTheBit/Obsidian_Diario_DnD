@@ -32,7 +32,8 @@
     "Curse of Strahd": {
       "icon": "lucide-venetian-mask",
       "unsynced": [
-        "7a04eea1d00dbf53"
+        "7a04eea1d00dbf53",
+        "320d4959f844a305"
       ],
       "color": "purple"
     },
@@ -59,14 +60,16 @@
     "Curse of Strahd/Sessioni": {
       "icon": "lucide-library-big",
       "unsynced": [
-        "7a04eea1d00dbf53"
+        "7a04eea1d00dbf53",
+        "320d4959f844a305"
       ],
       "color": "purple"
     },
     "One Shot": {
       "icon": "lucide-library-big",
       "unsynced": [
-        "7a04eea1d00dbf53"
+        "7a04eea1d00dbf53",
+        "320d4959f844a305"
       ],
       "color": "gray"
     },
@@ -74,7 +77,8 @@
       "icon": "lucide-trees",
       "color": "green",
       "unsynced": [
-        "7a04eea1d00dbf53"
+        "7a04eea1d00dbf53",
+        "320d4959f844a305"
       ]
     }
   },
